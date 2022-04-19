@@ -34,6 +34,7 @@ h1 {
   font-family: "QuattrocentoSans-Bold";
   font-size: 36px;
   font-weight: 500;
+  letter-spacing: 0.2rem;
   text-transform: uppercase;
 }
 h2 {
@@ -55,6 +56,7 @@ h4 {
 }
 p {
   font-family: "Open Sans";
+  letter-spacing: 0.05rem;
   font-size: 16px;
   line-height: 26px;
   color: #8d8f92;
@@ -274,13 +276,14 @@ nav {
 }
 .button1 {
   height: 45px;
-  width: 125px;
+  width: 150px;
   margin: 0 6px;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
   font-size: 14px;
   font-family: "QuattrocentoSans-Bold";
+  letter-spacing: 0.15rem;
   border: 2px solid #fff;
   border-radius: 5px;
   background: transparent;
